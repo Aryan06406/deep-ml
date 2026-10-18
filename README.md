@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 22 problems · 0 labs · 12 math
+**35** solved · 23 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-05 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-02 | [solution](problems/0009-matrix-times-matrix) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-02 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-18 | [solution](problems/0842-standardscaler-fit-and-transform) |
 
 ## Math
 
